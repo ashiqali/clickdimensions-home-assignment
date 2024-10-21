@@ -17,6 +17,7 @@ SocialSyncPortal is a .NET 8.0 web API that integrates data from Reddit and Tumb
 - [Versioning](#versioning)
 - [Logging](#logging)
 - [Screenshots](#screenshots)
+- [Demo Video](#demo-video)
 
 
 ## Technologies Used
@@ -220,6 +221,12 @@ To disable authentication for specific endpoints, remove the `Authorize` attribu
 ![image](https://github.com/user-attachments/assets/bff7a4ec-d60f-4c82-b571-0f453ac1be32)
 
 ![image](https://github.com/user-attachments/assets/b97dc9c7-769b-4529-a06b-a8e34a35e0f0)
+
+## Demo Video
+
+https://github.com/user-attachments/assets/100e3755-9485-48ba-9ad2-92105956fb6a
+
+
 
 
 
