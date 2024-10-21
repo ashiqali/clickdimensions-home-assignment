@@ -206,6 +206,26 @@ To disable authentication for specific endpoints, remove the `Authorize` attribu
   - Logging will be improved over time.
 
 ## Screenshots
+
+![image](https://github.com/user-attachments/assets/4f184fc1-44b1-4112-8503-2962d35b919a)
+
+![image](https://github.com/user-attachments/assets/0d37d56e-027d-4282-8678-c3a97d675f78)
+
+![image](https://github.com/user-attachments/assets/a66fc18e-b761-4b6a-b583-3bf66b84cbad)
+
+![image](https://github.com/user-attachments/assets/14673a0e-771e-4b66-898d-ac906e2d123b)
+
+![image](https://github.com/user-attachments/assets/c9ebd140-25c5-487f-b5d3-5bba79e1f86c)
+
+![image](https://github.com/user-attachments/assets/bff7a4ec-d60f-4c82-b571-0f453ac1be32)
+
+![image](https://github.com/user-attachments/assets/b97dc9c7-769b-4529-a06b-a8e34a35e0f0)
+
+
+
+
+
+
 ---
 
 
