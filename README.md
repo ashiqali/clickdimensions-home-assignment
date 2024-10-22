@@ -141,8 +141,6 @@ By default, the scheduler is set to run every minute using the following cron ex
 
 You can modify the cron expression directly in the `Program.cs` file:
 
-Or in the `Program.cs`:
-
 ```csharp
 q.AddTrigger(opts => opts
     .ForJob(jobKey)
